@@ -1,0 +1,22 @@
+[
+    {
+        "sid": 1234,
+        "sname": "merioth",
+        "scourse": "bbit"
+    },
+    {
+        "sid": 3455,
+        "sname": "wangui",
+        "scourse": "comp"
+    },
+    {
+        "sid": 90,
+        "sname": "henry",
+        "scourse": "bbit"
+    },
+    {
+        "sid": 8333,
+        "sname": "oklp",
+        "scourse": "blockchain"
+    }
+]
